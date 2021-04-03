@@ -1,2 +1,2 @@
-# simple_django_gunicorn_nginx
-Deployment of Django website on nginx server using Docker
+# simple example for deployment: Django - Gunicorn - Nginx - Docker
+This is an example of deployment of a very simple website developed in Django on an Nginx server using Gunicorn for handeling the applications and Docker containers for "run-from-box" packing.
